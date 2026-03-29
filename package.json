@@ -21,8 +21,8 @@
     "url": "https://github.com/mtozz23/nschgitrepofinal/issues"
   },
   "homepage": "https://github.com/mtozz23/nschgitrepofinal#readme",
-  "dependencies": {
-    "fsevents": "^2.3.2"
+  "optionalDependencies": {
+    "fsevents": "^2.3.3"
   },
   "description": ""
 }
